@@ -1,0 +1,1 @@
+Here I have a snake game made using turtle library similar to the games I played as a kid on the Nokia phone. I have implemented features that can shows the scores and updates everytime the snake gets longer and also keeps track of the high score and updates when needed
